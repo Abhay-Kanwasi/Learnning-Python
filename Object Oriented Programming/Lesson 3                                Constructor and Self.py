@@ -36,7 +36,7 @@
 # Second Choice (Use of self)
 
 class Computer:
-    def __init__(self):
+    def __init__(self): # Init is also a constructor
         self.name = "Abhay"
         self.age = 21
 

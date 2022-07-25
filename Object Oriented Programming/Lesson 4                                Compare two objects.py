@@ -6,7 +6,7 @@ class Computer:
         self.name = "Abhay"
 
     # This comparison is based on age. 
-    def comparison(self,c2): # Here self is an argument and also c2 is argument.(c2 is changable, but self is not replacable)
+    def comparison(self,c2): # Here self is an argument and also c2 is argument.(c2 is changable, but self is not replacable) # Here comparison takes two arguments => compare(who to calling, whom to compare)
         if self.age == c2.age: # Here in place of self we pass c1(internally), So computer read it like this =>if  c1.age == c2.age 
             return True
         else:
