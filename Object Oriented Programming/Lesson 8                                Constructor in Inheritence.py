@@ -121,3 +121,7 @@ b = B()
 # Yo Yo Function.
 # Yo Yo Function.
 # Yo Yo Class B
+
+
+
+# super() method not only it can call constructor it you can call methods of other class as well.
