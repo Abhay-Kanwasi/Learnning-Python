@@ -9,7 +9,7 @@ class Vehicle:
         self.mileage = mileage
 
     def seating_capacity(self, capacity):
-        return f"The seating capacity of a {self.name} is {capacity} passengers"
+        return f"The seating capacity of a {self.name} is have capacity of  {capacity} passengers"
 
 class Bus(Vehicle):
     # Assign default value to capacity
