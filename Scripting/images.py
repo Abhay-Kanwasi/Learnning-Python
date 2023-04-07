@@ -12,3 +12,5 @@ filtered_smooth_image.save("smooth_pikachu.png", 'png')
 filtered_converted_image = img.convert('L')  # L means grayscale
 filtered_converted_image.save("grayconvertedimage.png", 'png')
 
+
+
