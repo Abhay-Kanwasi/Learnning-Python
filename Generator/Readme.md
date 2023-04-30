@@ -1,6 +1,6 @@
 # Generator
 
-It's a special type of thing in python that allows us to use a special keyword called 'el' 
+It's a special type of thing in python that allows us to use a special keyword called 'yield' 
 it can pause and resume functions.
 Generator is a subset of iterable, a generator can be iterable but not vice-versa.
 
