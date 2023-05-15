@@ -85,3 +85,15 @@ DevTools listening on ws://127.0.0.1:50622/devtools/browser/37a10a84-f975-4df1-b
 [Child 6836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
 1684173912740	Marionette	INFO	Stopped listening on port 50634
 Dynamically enable window occlusion 1
+1684174100409	geckodriver	INFO	Listening on 127.0.0.1:50707
+1684174103459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djoke\\AppData\\Local\\Temp\\rust_mozprofilevg94iO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684174106447	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684174106471	Marionette	INFO	Listening on port 50716
+Read port: 50716
+WebDriver BiDi listening on ws://127.0.0.1:50708
+1684174107096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50708/devtools/browser/09054376-cca8-4ae9-9bd5-780686aa4231
