@@ -345,3 +345,7 @@ Dynamically enable window occlusion 0
 Read port: 61691
 WebDriver BiDi listening on ws://127.0.0.1:61683
 1684341871584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61683/devtools/browser/2bfea9b6-a763-4766-bde0-9602c23c2fd7
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
