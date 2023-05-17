@@ -2,6 +2,8 @@
 # from selenium import webdriver
 # firefox_browser = webdriver.Firefox(executable_path='geckodriver.exe')
 
+
+
 # In case if it's in a specific folder we can give the path
 # (executable_path=r'C:\Users\djoke\Downloads\geckodriver-v0.33.0-win64\geckodriver.exe')
 
