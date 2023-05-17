@@ -250,3 +250,98 @@ DevTools listening on ws://127.0.0.1:51008/devtools/browser/8bfb647c-78d0-471f-9
 1684174673287	Marionette	INFO	Stopped listening on port 51020
 Dynamically enable window occlusion 1
 console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+1684341423030	geckodriver	INFO	Listening on 127.0.0.1:61402
+1684341426113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djoke\\AppData\\Local\\Temp\\rust_mozprofilePdCeZP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684341429115	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684341429141	Marionette	INFO	Listening on port 61411
+Read port: 61411
+WebDriver BiDi listening on ws://127.0.0.1:61403
+1684341431526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61403/devtools/browser/1abb906b-a3a1-4256-898c-fda669a167a8
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 91: TagError: adsbygoogle.push() error: No slot size for availableWidth=97
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/A6DkqFxHDGl7nKslapf_JwSgNLk5S51nxKr2xdQhtdg.js line 2 > eval line 3893 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684341531595	geckodriver	INFO	Listening on 127.0.0.1:61507
+1684341534897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61508" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djoke\\AppData\\Local\\Temp\\rust_mozprofilesGzHYN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684341537325	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684341537332	Marionette	INFO	Listening on port 61515
+Read port: 61515
+WebDriver BiDi listening on ws://127.0.0.1:61508
+1684341538001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61508/devtools/browser/bb596c49-3204-45e7-a73a-94066fe9d1f3
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 91: TagError: adsbygoogle.push() error: No slot size for availableWidth=97
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/A6DkqFxHDGl7nKslapf_JwSgNLk5S51nxKr2xdQhtdg.js line 2 > eval line 209 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+[Child 4784, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4784, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not seconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684341782189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684341782201	Marionette	INFO	Listening on port 61616
+Read port: 61616
+WebDriver BiDi listening on ws://127.0.0.1:61607
+1684341784003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61607/devtools/browser/ccba366a-0938-42a7-b3f9-89d0efb54a42
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rtzqsd, line 10: TypeError: $(...).get(...) is undefined
+[Child 4144, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4144, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4144, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4144, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4144, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4144, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4144, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4144, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684341870750	Marionette	INFO	Stopped listening on port 61616
+Dynamically enable window occlusion 1
+y setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684341870547	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684341870572	Marionette	INFO	Listening on port 61691
+Read port: 61691
+WebDriver BiDi listening on ws://127.0.0.1:61683
+1684341871584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
