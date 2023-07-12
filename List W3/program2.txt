@@ -1,0 +1,8 @@
+Question 6 [2 cheeze h : 2 loop lagana or i-1 wagerah dhudna]
+
+Question 13 : 3D array
+
+Question 26 : Circularly Identical - circularly identical refers to two lists that can be obtained from each other if one or more of the elements in the list are rotated/displaced from their original index and placed at the beginning. 
+
+Question 30 : Learn dictionary
+
