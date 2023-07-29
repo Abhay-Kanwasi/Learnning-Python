@@ -21,7 +21,7 @@ else:
 set = {12,13,21,1,2,4}
 print(f'Maximum value in {set} is {max(set)}.')
 print(f'Minimum value in {set} is {min(set)}.')
-
+# testing 
 
 # sorted set and sum of set
 
