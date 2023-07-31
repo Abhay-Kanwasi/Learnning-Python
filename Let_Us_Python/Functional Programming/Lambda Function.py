@@ -30,3 +30,7 @@ class LambdaFunction:
 # LambdaFunction.Calculator()      # If you want to access the calculator
 
 
+# Question 1 : Write a lamda function which takes a string as argument and strips away any whitespace and returns the uppercase version of string
+
+Answer1 = lambda s : s.strip().upper().lower().title()
+print(Answer1('ABHAYkAnWasi'))
