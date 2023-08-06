@@ -15,4 +15,4 @@ point1 = Point(1,2)
 point2 = Point(4,6)
 
 distance = point1.calculate_distance_with(point2)
-print(distance)
+print(f'Distance between point1 and point2 is  {distance}')
