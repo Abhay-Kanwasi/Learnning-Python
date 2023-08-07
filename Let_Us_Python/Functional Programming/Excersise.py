@@ -70,8 +70,7 @@ Sunil, 20, 91
 Shobha, 18, 93
 Anil, 19, 85
 
-Write a program  to sort this data on multiple keys in the order name, age and marks.
-'''
+# Write a program  to sort this data on multiple keys in the order name, age and marks.
 
 data = [
     ('Anil', 21, 80), 
@@ -83,6 +82,21 @@ data = [
 
 sorted_data = list(sorted(data))
 print(sorted_data)
+
+
+'''
+# Suppose a dictionary contain key-value pairs, where key is an alphabet and value is a number. Write a program that obtains that maximum and minimum form the dictionary.
+
+container = {}
+n = int(input("How many elements you want to add : "))
+for item in range(n):
+    key = input("Enter a alphabet : ")
+    value = int(input("Enter the value : "))
+    container[key] = value
+
+print(max(container))
+print(min(container))
+
 
 
 
