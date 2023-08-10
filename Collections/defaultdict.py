@@ -1,4 +1,4 @@
-# Similar to usual dictionary container only difference that it will have a default value if key is been not set yet.
+# Defaultdict : Similar to usual dictionary container only difference that it will have a default value if key is been not set yet.
 
 from collections import defaultdict
 
