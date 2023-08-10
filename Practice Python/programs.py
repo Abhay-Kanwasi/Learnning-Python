@@ -1,7 +1,5 @@
 # num = int(input('Enter the number : ')); print(num)
 
-
-
 def example_function(arg1, *args, **kwargs):
     print("Regular argument:", arg1)
     print("Positional arguments (args):", args)
