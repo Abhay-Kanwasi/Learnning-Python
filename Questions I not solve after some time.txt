@@ -3,3 +3,4 @@
 3. Fibonacci Sequence (2 techniques)
 4. HCF and GCD
 5. Armstrong Number
+6. Prime Factors of Number
