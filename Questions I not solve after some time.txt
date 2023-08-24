@@ -1,3 +1,5 @@
 1. Number is prime or not (2 techniques)
 2. Factorial of Number (2 techniques)
 3. Fibonacci Sequence (2 techniques)
+4. HCF and GCD
+5. Armstrong Number
