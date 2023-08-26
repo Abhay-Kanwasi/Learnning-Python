@@ -1,7 +1,7 @@
 # Difference between two numbers 
 
-number1 = int(input("Enter the number : "))
-number2 = int(input("Enter the number : "))
+number1 = int(input("Enter the number1 : "))
+number2 = int(input("Enter the number2 : "))
 
 difference = input('What type of difference you want with these two numbers\n1. Is they same or not.\n2. Who is greater between them\n3. Substraction between two numbers\nChoose your difference : ')
 
