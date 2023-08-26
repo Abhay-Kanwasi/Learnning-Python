@@ -1,6 +1,6 @@
 # Get the first digit of the number
 
-number = 234#input("Enter the number : ")
+number = 234    #input("Enter the number : ")
 
 # Method 1
 # first_digit = str(number)[0]
